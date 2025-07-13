@@ -160,7 +160,7 @@ return {
 				name = "Droll Jimbo",
 			},
 			j_egg = {
-				name = "Northernlion",
+				name = "Seggs",
 			},
 			j_faceless = {
 				name = "Faceless Jimbo",
@@ -645,11 +645,7 @@ return {
 		},
 	},
 	misc = {
-		poker_hands = {
-			["Royal Flush"] = "Royal Gay",
-			Straight = "Gay",
-			["Straight Flush"] = "Gay Flush",
-		},
+		
 		achievement_descriptions = {
 			completionist_plus_plus = "Earn a Gold Sticker on every Jimbo",
 			legendary = "Discover a Legendary Jimbo",
@@ -658,12 +654,12 @@ return {
 			c_jokerless_1 = "Jimboless",
 		},
 		dictionary = {
-			b_cash_out = "Get Me Out",
+			b_cash_out = "Return home!",
 			b_jokers = "Jimbos",
 			b_next_round_1 = "Go",
 			b_next_round_2 = "Next",
 			b_play_hand = "Ship It",
-			b_skip_blind = "Skip Class",
+			b_skip_blind = "Skip~!",
 			b_stat_jokers = "Jimbos",
 			k_joker = "Jimbo",
 			k_joker_stickers = "Jimbo Stickers",
@@ -673,7 +669,7 @@ return {
 			k_reroll = "One More",
 			ph_click_confirm = "Click again to confirm",
 			ph_deck_preview_effective = "Effective total due to Jimbos, Blinds, and card enhancements",
-			ph_improve_run = "Welcome to the Team!",
+			ph_improve_run = "Dinner, a bath, or... me?",
 			ph_you_win = "CALCULATED!",
 			ph_game_over = "BUMMER!",
 
