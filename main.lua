@@ -261,77 +261,8 @@ BUMod.CARDS = {
 			text = { "Replace Hone with HonuKane" },
 		},
 	},
-	{
-		key = "jokers_trans",
-		path = "single_jokers/jokers_trans.png",
-		set = "Joker",
-		keys = { "j_seance", "j_banner" },
-		loc_txt = {
-			name = "Trans/Pride Jokers",
-			text = { "Trans textures set: Jokers" },
-		},
-	},
-	{
-		key = "boosters_spectral_trans",
-		path = "single_boosters/spectral_trans.png",
-		set = "Booster",
-		keys = { "p_spectral_normal_1", "p_spectral_normal_2", "p_spectral_jumbo_1", "p_spectral_mega_1" },
-		loc_txt = {
-			name = "Trans Spectral Packs",
-			text = { "Trans textures set: Spectral packs" },
-		},
-	},
-	{
-		key = "tags_trans",
-		path = "single_tags/tags_trans.png",
-		set = "Tag",
-		keys = { "tag_ethereal" },
-		loc_txt = {
-			name = "Trans Skip Tags",
-			text = { "Trans textures set: Skip tags" },
-		},
-	},
-	{
-		key = "spectrals_trans",
-		path = "single_tarots/spectrals_trans.png",
-		set = "Spectral",
-		keys = {
-			"c_familiar",
-			"c_grim",
-			"c_incantation",
-			"c_talisman",
-			"c_aura",
-			"c_wraith",
-			"c_sigil",
-			"c_ouija",
-			"c_ectoplasm",
-			"c_immolate",
-			"c_ankh",
-			"c_deja_vu",
-			"c_hex",
-			"c_trance",
-			"c_medium",
-			"c_cryptid",
-			"c_soul",
-			"c_black_hole",
-		},
-		loc_txt = {
-			name = "Trans Spectral Cards",
-			text = { "Trans textures set: Spectral cards" },
-		},
-	},
-	{
-		key = "deck_trans",
-		path = "single_decks/decks_trans.png",
-		set = "Back",
-		keys = {
-			"b_ghost",
-		},
-		loc_txt = {
-			name = "Trans Decks",
-			text = { "Trans textures set: Decks" },
-		},
-	},
+	
+	
 }
 
 BUMod.CREDITS = {
